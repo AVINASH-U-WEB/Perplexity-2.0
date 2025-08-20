@@ -32,7 +32,8 @@ Real-time information retrieval
 
 🏗 Architecture
 System Components
-text
+
+
 Frontend (React) → Backend (FastAPI) → LangGraph Agent → Groq LLM
        │              │          │
        │              │          └── Tool Ecosystem
@@ -44,8 +45,12 @@ Frontend (React) → Backend (FastAPI) → LangGraph Agent → Groq LLM
        │              └── Cache Layer (Redis)
        │
        └── Real-time Updates (SSE)
+
+
+
 Workflow
 <img width="5190" height="2619" alt="deepseek_mermaid_20250820_5f176e" src="https://github.com/user-attachments/assets/1130f99d-fa55-4e8c-b859-6b991eb1809d" />
+
 
 🛠 Technology Stack
 Backend
