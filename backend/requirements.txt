@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-dotenv
+langgraph
+langchain
+langchain-groq
+httpx
+beautifulsoup4
+lxml
+scikit-learn
+tavily-python
+google-search-results
+duckduckgo-search
+sse-starlette
+redis
+pydantic
